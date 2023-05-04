@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **Laravel, NestJs**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **WordPress, JavaScript, JQuery, NodeJs, VueJs, ReactJs, Laravel**
+- 💬 Ask me about **WordPress, JavaScript, JQuery, NodeJs, VueJs, ReactJs, Laravel, Angular**
 
 - 📫 How to reach me **shubhamraturi37@gmail.com**
 
